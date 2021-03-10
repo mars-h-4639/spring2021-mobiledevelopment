@@ -1,0 +1,15 @@
+body {
+    background: linear-gradient(rgb(204, 90, 166), rgb(40, 178, 202));
+    background-size: cover;
+}
+
+
+h2{
+    font-size:22;
+}
+
+div{
+    text-align: right;
+    font-size:22;
+}
+
